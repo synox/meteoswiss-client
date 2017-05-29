@@ -1,3 +1,5 @@
+#POC 
+
 API_URL = 'http://app-prod-ws.meteoswiss.ch/v3/plzDetail2?plz=%s'
 API_OVERVIEW_URL = 'http://app-prod-ws.meteoswiss.ch/v3/plzOverview2?plz=%s'
 
